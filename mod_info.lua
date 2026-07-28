@@ -1,0 +1,13 @@
+name = "Smart Factory HC"
+version = 1
+copyright = ""
+description = "Factory hotbuild keys immediately pick the matching tech unit. Added support for shift+5. Factory templates retain the standard hotbuild selection and cycling behavior."
+author = "Vindex, HotCheese"
+url = ""
+uid = "smart-factory-HC-v1-0000-000000000001"
+selectable = true
+enabled = true
+icon = "/mods/SmartFactoryHC/icon.png"
+exclusive = false
+ui_only = true
+conflicts = {}
